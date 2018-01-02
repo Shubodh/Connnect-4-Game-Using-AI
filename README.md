@@ -9,6 +9,6 @@ However, GUI code has also been included in the file gui_final.py for separate r
 
 For computation purposes, the game has been modified to a 4 * 4 board and the first player to place 3 coins adjacent to each other in any direction - horizontal, vertical and diagonal wins! 
 
-Try finding out the weaknesses of the Alpha Beta Pruning player and try defeating it and email me if you succeed! 
+Try finding out the weaknesses of the Alpha Beta Pruning player and try defeating it and shoot a mail to me if you succeed! 
 
 
